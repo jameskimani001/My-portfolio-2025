@@ -38,7 +38,7 @@ const Hero = () => {
               >
                 View My Work <ArrowRight className="ml-2" size={20} />
               </Button>
-              <a href="https://drive.google.com/file/d/1wNza_4qmErLF_9cOLQ4oDpD6UdDPqtC9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1wuEFNXQSfAM9HI_CdWFfRsgLpodVV5BC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline" className="border-gray-600 text-gray-300 hover:bg-gray-800 font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105 text-lg">
                   <Download className="mr-2" size={20} />
                   Download CV
